@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to ARYA JavaTutorials..</h2>
+<h2>Welcome to ARYA'S PIPELINE</h2>
 </body>
 </html>
